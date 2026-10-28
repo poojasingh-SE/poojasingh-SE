@@ -1,9 +1,8 @@
 # Hi there, I'm Pooja Singh 👋
 ### Backend Developer | Faridabad, Haryana, India 
 
-PHP Backend Developer with 4+ years of experience in building and scaling web applications using Laravel, CodeIgniter 4, MySQL, and MongoDB.
+PHP Backend Developer with 3+ years of experience in building and scaling web applications using Laravel, MySQL, and MongoDB.
 Experienced in developing high-performance REST APIs, optimizing complex database queries, and handling production-level applications.
-Developed on multi-marketplace eCommerce systems with integrations for platforms like Flipkart, Meesho, and Myntra. Strong ability to resolve production issues, improve system performance, and deliver scalable backend solutions.
 
 Now I'm learning and shifting to Node.js.
 
