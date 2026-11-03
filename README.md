@@ -12,12 +12,10 @@ Now I'm learning and shifting to Node.js.
 
 ### 🚀 Executive Skill Matrix
 
-- **Languages & Frameworks:** PHP, Laravel, CodeIgniter 4, Core PHP, Native Javascript
+- **Languages & Frameworks:** PHP, Laravel, CodeIgniter 4, Core PHP
 - **Database Architecture:** MongoDB , MySQL
 - **API & Core Integration:** RESTful APIs
-- **Frontend Extensions:** jQuery, AJAX, Bootstrap, UI Layout Controllers
 - **Toolchain Workflow:** Git, GitHub Architecture, Postman Automation, VS Code
-
 
 ### 💻 Commercial Production & Architectural Proof
 
