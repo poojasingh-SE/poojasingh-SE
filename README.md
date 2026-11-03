@@ -4,12 +4,6 @@
 PHP Backend Developer with 3+ years of experience in building and scaling web applications using Laravel, MySQL, and MongoDB.
 Experienced in developing high-performance REST APIs, optimizing complex database queries, and handling production-level applications.
 
-Now I'm learning and shifting to Node.js.
-
-**What I've done in Node.js:**
-- A small terminal based Q&A CRUD application
-
-
 ### 🚀 Executive Skill Matrix
 
 - **Languages & Frameworks:** PHP, Laravel, CodeIgniter 4, Core PHP
